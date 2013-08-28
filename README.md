@@ -1,6 +1,6 @@
-# generator-easyapp [![Build Status](https://secure.travis-ci.org/gdi2290/generator-easyapp.png?branch=master)](https://travis-ci.org/gdi2290/generator-easyapp)
+# EASY app generator [![Build Status](https://secure.travis-ci.org/gdi2290/generator-easyapp.png?branch=master)](https://travis-ci.org/gdi2290/generator-easyapp)
 
-A generator for [Yeoman](http://yeoman.io).
+Express Angular Styl Yeoman
 
 
 ## Getting Started

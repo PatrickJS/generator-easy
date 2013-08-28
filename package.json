@@ -1,12 +1,16 @@
 {
   "name": "generator-easyapp",
   "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "description": "An EASY stack generator, Express Angular Styl Yeoman",
   "keywords": [
     "yeoman-generator",
     "Express Angular Styl Yeoman",
     "EASY app",
-    "EASY"
+    "EASY",
+    "Yeoman",
+    "Styl",
+    "Angular",
+    "Express"
   ],
   "homepage": "https://github.com/gdi2290/generator-easyapp",
   "bugs": "https://github.com/gdi2290/generator-easyapp/issues",
