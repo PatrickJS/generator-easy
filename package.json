@@ -1,6 +1,6 @@
 {
   "name": "generator-easyapp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An EASY stack generator, Express Angular Styl Yeoman",
   "keywords": [
     "yeoman-generator",
