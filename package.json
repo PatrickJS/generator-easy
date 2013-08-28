@@ -1,0 +1,44 @@
+{
+  "name": "generator-easyapp",
+  "version": "0.0.0",
+  "description": "A generator for Yeoman",
+  "keywords": [
+    "yeoman-generator",
+    "Express Angular Styl Yeoman",
+    "EASY app",
+    "EASY"
+  ],
+  "homepage": "https://github.com/gdi2290/generator-easyapp",
+  "bugs": "https://github.com/gdi2290/generator-easyapp/issues",
+  "author": {
+    "name": "PatrickJS",
+    "email": "github@gdi2290.com",
+    "url": "https://github.com/gdi2290"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gdi2290/generator-easyapp.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.13.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0-rc.1"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
