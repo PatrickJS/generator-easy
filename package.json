@@ -1,5 +1,5 @@
 {
-  "name": "generator-easyapp",
+  "name": "generator-easy",
   "version": "0.0.1",
   "description": "An EASY stack generator, Express Angular Styl Yeoman",
   "keywords": [
@@ -22,7 +22,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gdi2290/generator-easyapp.git"
+    "url": "git://github.com/gdi2290/generator-easy.git"
   },
   "scripts": {
     "test": "mocha"
