@@ -1,6 +1,7 @@
-# EASY app generator [![Build Status](https://secure.travis-ci.org/gdi2290/generator-easyapp.png?branch=master)](https://travis-ci.org/gdi2290/generator-easyapp)
+# Work in Progress
+# EASY app generator [![Build Status](https://secure.travis-ci.org/gdi2290/generator-easy.png?branch=master)](https://travis-ci.org/gdi2290/generator-easy)
 
-Express Angular Styl Yeoman
+Express Angular Stylus Yeoman
 
 
 ## Getting Started

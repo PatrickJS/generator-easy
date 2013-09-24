@@ -1,14 +1,15 @@
 {
   "name": "generator-easy",
-  "version": "0.0.2",
-  "description": "An EASY stack generator, Express Angular Styl Yeoman",
+  "version": "0.0.3",
+  "description": "An EASY stack generator, Express Angular Stylus Yeoman",
   "keywords": [
     "yeoman-generator",
-    "Express Angular Styl Yeoman",
+    "Express Angular Stylus Yeoman",
     "EASY app",
     "EASY",
     "Yeoman",
     "Styl",
+    "Stylus",
     "Angular",
     "Express"
   ],
@@ -31,20 +32,18 @@
     "yeoman-generator": "~0.13.0"
   },
   "devDependencies": {
-    "mocha": "~1.12.0"
-  },
-  "peerDependencies": {
-    "generator-karma": "~0.5.0",
-    "yo": ">=1.0.0-rc.1.1"
-  },
-  "devDependencies": {
     "mocha": "~1.12.0",
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-conventional-changelog": "~1.0.0",
     "marked": "~0.2.8",
     "semver": "~2.1.0",
-    "grunt-release": "~0.5.1"
+    "grunt-release": "~0.5.1",
+    "load-grunt-tasks": "*"
+  },
+  "peerDependencies": {
+    "generator-karma": "~0.5.0",
+    "yo": ">=1.0.0-rc.1.1"
   },
   "engines": {
     "node": ">=0.8.0",
